@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Magni sylvii sal volatile oleosum radiis solaribus impregnatum that great medicine, shewing its inventors and promotors Sr. Theodor My-Hearn and Franciscus de le boe Sylvius the two great physitians of Europe.</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26435</idno><idno type="EEBO-CITATION">17196603</idno>
+  <idno type="VID">206343</idno>
+  <idno type="EEBO-PROQUEST">2248533973</idno>
+  
+            <idno type="STC">Wing M256</idno>
+            <idno type="OCLC">17196603</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26435)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206343)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1619:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Magni sylvii sal volatile oleosum radiis solaribus impregnatum that great medicine, shewing its inventors and promotors Sr. Theodor My-Hearn and Franciscus de le boe Sylvius the two great physitians of Europe.</title>
+               </titleStmt>
+               <extent>[4], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Le Boë, Frans de, 1614-1672.</term>
+               <term type="personal_name">Mayerne, Théodore Turquet de, --  Sir, 1573-1655.</term>
+               <term type="topical_term">Patent medicines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206343:1"/>
+            <pb facs="tcp:206343:1"/>
+            <p>Magni Sylvii <hi>SAL VOLATILE OLEOSƲM, radiis solaribus impregnatum.</hi>
+            </p>
+            <p>That Great MEDICINE; SHEWING Its Inventor, and Promotors Sr. <hi>Theo<g ref="char:EOLhyphen"/>dor My-Hearn</hi> and <hi>Franciscus de le boe Sylvius</hi> the two great <hi>Physitians</hi> OF EUROPE.</p>
+            <q xml:lang="grc">
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>—</l>
+               <bibl>Hip.</bibl>
+            </q>
+            <q xml:lang="lat">
+               <p>Numinis instar venerandum sit medicamen, quo, non Corporis sed &amp; Animi redintegratur lapsus; quippe a se invicem ita pendent ut unius, inimicus, alterius fit hostis.</p>
+               <bibl>Sdn.</bibl>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed in the Year, 1674.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:206343:2"/>
+            <pb facs="tcp:206343:2"/>
+            <head>To the READER.</head>
+            <p>
+               <hi>SEneca</hi> blames <hi>Aristotle,</hi> for complaining that <hi>Nature</hi> had granted a longer Life to <hi>Bruits</hi> than <hi>Man.</hi> But <hi>Epictetus</hi> end's his querulencie when he said <hi>prout moderati sumus ita &amp; atavi fi<g ref="char:EOLhyphen"/>mus nam poculis pars maxima perit.</hi> And we daily see that <hi>Vita,</hi> and <hi>Vinum,</hi> are not long lasting Neighbours; <hi>Ceres</hi> and <hi>Bacchus,</hi> like Fire and Water are good Servants but ill Masters, and can number Sculs, with Sword, and Famine, cast thy Eye back: O Reader! but to the end of a seven years thought, and tell me then how many lusty young Men that thou hast known have died <hi>Martyr's</hi> to the <hi>Pip</hi> and <hi>Pot:</hi> short words but sure death's, consider this <hi>before the silver cord be broken, and the keepers of the House tremble;</hi> we must one day shut up our Shop windows for E<g ref="char:EOLhyphen"/>ternity, draw the curtain, put out the candle, and bid goodnight to all the World, for if Iron, Steel, and Stones, wears out and decayes, know, that Flesh and Blood cannot last always, remember the <hi>Epigrammist</hi> puts <hi>Salubre Corpus</hi> among those things that makes up <hi>jucundissima Vita,</hi> God
+<pb facs="tcp:206343:3"/>grant we may all consider this whilst it is called to Day, <hi>before the evil ones come, wherein we shall say we have no pleasure in them,</hi> yet a little while and all our heads must come to the cold Tomb; we must all into our wainscot Parlor, the Coffin, and in a close hole under-ground sleep the sleep of all the World; how then doth it concern thee to mind thy Health, thy Body and Soul being all thy charge? Long Life is a great Blessing, God grant thou mayst consi<g ref="char:EOLhyphen"/>der it, and live to see thy Childrens children, and peace upon <hi>Israel.</hi>
+            </p>
+            <closer/>
+            <postscript>
+               <p>Licensed</p>
+               <closer>
+                  <dateline>
+                     <date>Aug. 22.</date>
+                  </dateline>
+                  <signed>Roger L' Estrange.</signed>
+               </closer>
+            </postscript>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:206343:3"/>
+            <head>
+               <hi>SAL VOLATILE OLEOSƲM:</hi> That Great MEDICINE.</head>
+            <p>
+               <seg rend="decorInit">Ο</seg> Βίοσ ἥ δὲ τέχνη μακρὴ, &amp;c. says the Divine <hi>Hypocrates,</hi> not that Nature hath given us so short a life; but by Sin and disorder we have made it <hi>so.</hi> And <hi>Solomon</hi> the wisest of Men, in his Exhortations to Temperance, and long life, puts the question; <hi>For why shouldst thou die before thy time?</hi> And indeed the great business of all ages (both of <hi>Philosophers</hi> and <hi>Phy<g ref="char:EOLhyphen"/>sicians</hi>) hath been to propagate <hi>Medicine,</hi> and <hi>Morality;</hi> Health of Body, and tranquility of Mind, being the two great hinges on which all humane content is turned. Hence came the an<g ref="char:EOLhyphen"/>swer of that great Master of reason, and pious Stoick <hi>Seneca,</hi> who being demanded why he took such pains in his Study, replyed, <hi>Ʋt mentem sanam in Corpore sano habeamus.</hi> Health being the true Hony-comb that sweetens all our worldly com<g ref="char:EOLhyphen"/>forts, was well considered on by <hi>Joannes Panphy<g ref="char:EOLhyphen"/>lomus,</hi> that Divine and Learned Hermit, the first
+<pb n="2" facs="tcp:206343:4"/>Inventor of this <hi>Medicine,</hi> being a hundred forty and seven years old, when he presented a Bottle of this red Liquor to the <hi>Emperor</hi> (having then received extream Unction, being in the Agonie of death, and given over by all his <hi>Physicians</hi>) with this Inscription, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for your Pre<g ref="char:EOLhyphen"/>servation <hi>Sir,</hi> and so it proved. This <hi>Preserva<g ref="char:EOLhyphen"/>tive</hi> of Nature, was afterwards (though by what means we know not) attained, by one <hi>Guil. Bi<g ref="char:EOLhyphen"/>zalman,</hi> a Monk; and either by himself or some of his Friends, Sold unto Sir <hi>Theodor. My-hearn</hi> a <hi>Smiss,</hi> and chief <hi>Physician</hi> to His late Majesty King <hi>Charles</hi> the First, for 3000 Crowns at <hi>Sknesburg,</hi> a small Village in <hi>Germany,</hi> on the Frontiers of <hi>Bavaria,</hi> and was the only Medicine by which he performed such admirable and stupendious <hi>Cures</hi> in this Kingdom, as at leaving this world, he con<g ref="char:EOLhyphen"/>fessed to a dear bofome Friend of his, who dying at <hi>Amsterdam,</hi> not by a less strange than sudden accident, left Dr. <hi>Sylvius,</hi> then famous for his Bractice there, as Heir to his <hi>Estate,</hi> and Successor to this <hi>Secret.</hi>
+            </p>
+            <p>This <hi>Franciscus De le boe Sylvius</hi> proving fa<g ref="char:EOLhyphen"/>mous for his great Knowledge in <hi>Physick,</hi> and excellent Cures, was invited by the States of <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> to be chief Professor of Medicine in the University of <hi>Leyden,</hi> being for Learning and Eminency in his faculty, not less beloved, than admired by the world, confessed to <hi>me,</hi> and Dr. <hi>J.</hi> his intimate friends, then assaulted by a furious Paroxism of the <hi>Gout:</hi> (though soon eased) what miraculous Cures in the same Disease, a certain <hi>Emperick</hi> of <hi>Amsterdam</hi> had performed, by this
+<pb n="3" facs="tcp:206343:4"/>
+               <hi>Tincture,</hi> which he bought privately, and in great quantity from <hi>him,</hi> the which <hi>Emperick</hi> I find noted, by the truly deserving and Honourable Mr. <hi>Robert Boyle,</hi> as you may see <hi>Pag.</hi> 76. and 77. <hi>Part</hi> 2. of that most useful and excellent piece of Experimental Philosophy, where you may read the Story at large; But to our purpose.</p>
+            <p>Dr. <hi>Sylvius</hi> through the goodness of Provi<g ref="char:EOLhyphen"/>dence taking a kindness to me, more than the rest of Mortals, was Pleased to Communicate this Secret, with a juramental promise, never, either to divulge this <hi>Secret</hi> without his Perssimion, or make it Publick during his life; neither have I till now, seeing it hath Pleased God to remove him, even in the <hi>Crepusculum</hi> and evening of his age, ren<g ref="char:EOLhyphen"/>dring his Soul to him that gave it, and restoring the <hi>Elements</hi> their own. And sooner had this most excellent secret come to the help of the world, but that the tedious, and long <hi>Preparations,</hi> necessary to its <hi>Perfection,</hi> consumes a great deal of time, besides, my distance from <hi>England,</hi> I being then in the remotest Parts of <hi>Italy,</hi> when the News of his death was brought to my Ears. I intend, God willing, to Publish a Book of the wonderful Vir<g ref="char:EOLhyphen"/>tues, and strange Cures, this Liquor hath wrought, and some of them almost incredible, with the Per<g ref="char:EOLhyphen"/>sons Names and Places.</p>
+            <p>But the saying is as true, as old, that <hi>where God hath a Church, the Devil hath a Chappel;</hi> and such hath been the activeness and subtlety of the <hi>Arch-fiend</hi> to lead up his most Hellish and best Disciplin'd mischiefs into the <hi>Van</hi> of his destruous and wicked designs, bending all his insernal Ma<g ref="char:EOLhyphen"/>chinations,
+<pb n="4" facs="tcp:206343:5"/>to dispoliate, ruine, and undo, what<g ref="char:EOLhyphen"/>soever kind <hi>Nature,</hi> and a kinder <hi>God</hi> hath produced for the help of Man, to restore the labifactions and breaches of battered Nature, one <hi>Emissary</hi> whereof Dr. <hi>Beton, alias Bethune,</hi> at <hi>Naishrough</hi> near the <hi>SPAWS</hi> in <hi>YORK<g ref="char:EOLhyphen"/>SHIRE,</hi> whom he taught to say after his Father the <hi>Old Lyar,</hi> that he had from <hi>Sylvius</hi> this secret, which before the Almighty, I profess to be most notoriously false, and since his <hi>death</hi> set to Sale by an <hi>Apothecary</hi> there, it being a strange <hi>Hodg-podg</hi> with a praecipitated <hi>Salt</hi> at the bottom, and when jum<g ref="char:EOLhyphen"/>bled, it looks like an <hi>Emulsion,</hi> a spurious Liquor, bad enough to shew the poor <hi>Chymistry</hi> of the <hi>Com<g ref="char:EOLhyphen"/>poser,</hi> &amp;c. but none digs after Pebbles, but Gold, and we must expect what they can't do by <hi>counter<g ref="char:EOLhyphen"/>feit,</hi> they'l endeavour by calumny. As among the rest has lately, one <hi>R. G.</hi> a man not worth naming, only to prevent a <hi>blank,</hi> and brought in here to fill up room, (as <hi>Boys</hi> and <hi>Beggars</hi> croud in at Change<g ref="char:EOLhyphen"/>time;) whose confidence I rather blush at than condemn, it being the Nature of the <hi>Creature</hi> to do nothing else, but what may become a <hi>Nihilo sciente.</hi> Read but the Note of Directions to his admired Gallimophry, and you may easily judge of his abilities, but of him more hereafter, if <hi>John Tradeskin</hi> begs not his <hi>Brains,</hi> to accompany the rest of his Nut-shel Rarities; for the Ass that will take on the Lyon's Skin, deserves to have his Ears par'd, for a nearer resemblance. <hi>Sed si haec non suffic<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at virgula, certius expecietur fla<g ref="char:EOLhyphen"/>gellum.</hi>
+            </p>
+            <div type="part">
+               <pb n="5" facs="tcp:206343:5"/>
+               <head>Scurvy.</head>
+               <p>The <hi>Scurvy</hi> (a Mortal Disease, killing not so soon, yet as sure as a <hi>Gun;</hi> and like the <hi>Indian</hi> poysons works our ruines insensibly) known to all men to be so raging and mischievous a Malady, that very few or none, especially in our Parts of the world, escapes the vengeance of its virulency; for such is the subtle insinuations of this Evil, that like the <hi>Febris Hectica,</hi> first hard to be known, and easie to be cured, but at last easie to be known, and hard to be cured; and because many may have it, though not known what it is: I think it necessary to acquaint them of some of its chief <hi>Symptoms,</hi> though to number all, would be a <hi>Herculian</hi> La<g ref="char:EOLhyphen"/>bour; neither do all of them appear in one and the same person, some complaining of a general indisposition of the whole Body, removing from place to place, with its sometimes wandring, and sometimes setled Pains, as doth the <hi>Arthritis Vaga,</hi> or Running Gout.</p>
+               <p>Others have pricking pains, with heaviness and pain in the Head, and especially after dinner, not a few are troubled with Palpitations of the heart, straitness of the Breast and Stomach, loathing, and a bad digestion, sometimes seeming to be very hungry, yet forthwith satiated and cloyed, often reachings to Vomit, and casting nothing up, but Phlegm or Salt water, longing after divers things, and when had, not caring for it, weakness in the Legs and Knees, with a cracking of the Joynts; some Bodies spotted, some scab'd and ulcerated,
+<pb n="6" facs="tcp:206343:6"/>faintness, short breath, wasting of the Gums, rot<g ref="char:EOLhyphen"/>ting of the Teeth, stinking Breath, the mouth filling it self constantly with water, and dischar<g ref="char:EOLhyphen"/>ging it again in continuall Rhumes on the Breast and Lungs; being the fore-runner and certain cause of innumerable <hi>Consumptions:</hi> Some Bodies swell, and are extended chiefly after meat, coun<g ref="char:EOLhyphen"/>terfeiting the <hi>Dropsie,</hi> to which it too often really turns; as likewise to <hi>Convulsions,</hi> Griping of the <hi>Guts, Swounings,</hi> and in the end Death, which many times is sudden. Who then but one deprived of <hi>sense</hi> and <hi>reason,</hi> would neglect the means of securing his Body from such a <hi>Legion</hi> of unwelcom <hi>Companions,</hi> and fatal Diseases, against which Na<g ref="char:EOLhyphen"/>ture as a most certain, safe, and soveraign Remedy, hath ordained this <hi>Medicine,</hi> a few drops in all Liquors that you drink, and in the morning from 15 to twice its number in a small glass of <hi>fair water,</hi> and by the Blessing of God, you will bless the time that e're you saw this Paper.</p>
+            </div>
+            <div type="part">
+               <head>Debauch.</head>
+               <p>12 or 15 drops taken in the Morning, each hour, during three hours, appeases all those disturbances of Body and Brain, which the overnights <hi>excess</hi> had caused, takes away <hi>thirst,</hi> and the <hi>bitter clam<g ref="char:EOLhyphen"/>miness</hi> of the mouth, pleasantly reducing the <hi>Stomach</hi> to its pristine temperature and proper of<g ref="char:EOLhyphen"/>fice of <hi>fermentation;</hi> take it either in a glass of <hi>Rhenish,</hi> or White wine mixt with water.</p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:206343:6"/>
+               <head>Sweet breath, Coughs, Consumptions, <hi>&amp;c.</hi>
+               </head>
+               <p>The same Dose taken three or four times in a day, in a spoonful or two of <hi>Angelica</hi> or <hi>Orange</hi> water, causeth a <hi>sweet breath</hi> to admiration, ex<g ref="char:EOLhyphen"/>citates the Sense of <hi>Smelling,</hi> though languishing and seemingly lost; preserves the <hi>Gums</hi> and <hi>Teeth</hi> clean from being either putrifyed or discoloured, curing those unsavory fetid breathings, which arise from exulcerated <hi>Lungs,</hi> which by continuance it also effectually helps, together with all <hi>Tabes, Pthisis,</hi> and all <hi>Consumptions</hi> whatever, old and troublesom <hi>Coughs,</hi> want of sleep, and turbulent <hi>Dreams.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Stone and Gravel.</head>
+               <p>Twenty drops taken in water of <hi>Saxifrage, wild Time,</hi> or which excels that of <hi>Persicaria,</hi> or <hi>Arsmart</hi> wonderfully cureth the <hi>Gravel</hi> in the <hi>Kidneys</hi> and <hi>Ʋreters;</hi> profiting much to the <hi>Stone</hi> in the <hi>Blad<g ref="char:EOLhyphen"/>der,</hi> which if not confirmed, it <hi>mouldreth</hi> and car<g ref="char:EOLhyphen"/>rieth off by <hi>Ʋrine.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Ill Airs, Youth and Beauty.</head>
+               <p>From <hi>Contagious</hi> and ill <hi>Airs,</hi> 'tis the true <hi>Pro<g ref="char:EOLhyphen"/>phylaciick,</hi> preserving the Body in <hi>vigour</hi> and <hi>beau<g ref="char:EOLhyphen"/>ty,</hi> even unto extream old <hi>Age,</hi> by depressing those unnatural <hi>fumes</hi> and <hi>heats</hi> which prey upon the <hi>fat,</hi> appointed by Nature to fill up the <hi>furrows</hi> and un<g ref="char:EOLhyphen"/>timely <hi>wrinkles</hi> of the Skin, which not seldom, in youth, counterfeit decrepit age.</p>
+               <pb n="8" facs="tcp:206343:7"/>
+               <p> From 20 to 30 drops in a glass of your own <hi>Ʋrine,</hi> or Juice of <hi>Tansie</hi> and <hi>Rhenish wine</hi> mix'd, killeth and destroyeth all manner of <hi>worms</hi> in Men, Women, and Children, a <hi>Plague</hi> (though too much neglected) bringing a thousand inconveniences on Mortals, and seldom leaving them till they leave the world, except by powerful <hi>Medicines,</hi> for which to amazement this hath been innumerable times proved.</p>
+            </div>
+            <div type="part">
+               <head>Evils of the Head and Memory.</head>
+               <p>All <hi>Dizziness</hi> with pains of the Head, whether recent of <hi>inveterate,</hi> it availeth beyond belief, ta<g ref="char:EOLhyphen"/>kng each morning about 20 drops or more in a glass of <hi>fair water,</hi> cleareth the Brain of all dull and muddy fumes, helping the <hi>memory</hi> beyond all things in Nature, the very smell of it in all fits and distempers of the head, being a soveraign Remedy.</p>
+            </div>
+            <div type="part">
+               <head>Small Pox and Measles.</head>
+               <p>In the <hi>Small Pox,</hi> and <hi>Measles,</hi> a few drops of it, either in a spoonful of <hi>Carduus,</hi> or <hi>Butter bur</hi> water, frequently given; defendeth the Vitals, powerfully casting forth the Disease with wonder<g ref="char:EOLhyphen"/>ful safety.</p>
+            </div>
+            <div type="part">
+               <head>Dropsie.</head>
+               <p>The Dropsie in all its Species, if taken any way in time, whether <hi>Ascites, Tympanites,</hi> or <hi>Anasarca,</hi> it perfectly cureth, the Dose being from 20 to 30
+<pb n="9" facs="tcp:206343:7"/>drops, in a few spoonfuls of <hi>Elder, Juniper,</hi> or <hi>Cinamon</hi> water, divers times reiterated, and some few drops taken in all their Drink, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Melancholy, and its followers.</head>
+               <p>For all kinds of <hi>Hypocondriack</hi> Melancholy, Winds, Pains in the side, Obstructions of the <hi>Spleen</hi> and <hi>Liver,</hi> I do confidently affirm from my heart that Nature hath never bestowed its fellow on Man, it being taken continually each morning fasting, from 25 to 30 drops in a glass-full of good <hi>fair water,</hi> and so fasting till 12 a Clock.</p>
+            </div>
+            <div type="part">
+               <head>Women's Distempers.</head>
+               <p>
+                  <hi>Convulsions, fainting fits,</hi> the <hi>Green Sickness,</hi> and in a word for all <hi>Womens Diseases,</hi> it is so ap<g ref="char:EOLhyphen"/>propriated and certain relief, that I intend to write particularly in behalf of that <hi>Sex,</hi> what advanta<g ref="char:EOLhyphen"/>ges some <hi>Ladies</hi> of my acquaintance have most miraculously found, as well in the <hi>breeding</hi> as <hi>bearing</hi> of their <hi>Children,</hi> it being the true <hi>Anodine,</hi> and safe Curer of all <hi>Womb illnesses,</hi> adding a <hi>Spur</hi> to the dulness, as well as a <hi>Bridle</hi> to the freeness of their <hi>Monthly Visits;</hi> and indeed I do pity the <hi>Gentlewomen</hi> of this <hi>City,</hi> how they are deluded and cheated by a crew of <hi>half-Chirurgions,</hi> called <hi>Men-Midwifes,</hi> Fellows of more <hi>Ribbons</hi> than <hi>Brains,</hi> shunning the Company of <hi>Physicians</hi> and Learned Men, as <hi>Owls</hi> do the light.</p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:206343:8"/>
+               <head>Chilly Venus, want of Issue.</head>
+               <p>Never yet was a parallel unto this <hi>Medicine</hi> known, for restoring not only <hi>vigor,</hi> but delectation to languishing <hi>Venus,</hi> and without urging the least inconveniency unto <hi>Nature,</hi> doth convoy Courage rather by cherishing, than by stimulation; as all <hi>Satyrians</hi> do.</p>
+               <p>And some hundreds, amongst which, not a few of my acquaintance, that hath been long <hi>wed</hi> and dispairing of ever having <hi>Issue,</hi> have by the help of this <hi>Medicine,</hi> been not only safely restored to their juvenal imbraces, but blessed with a happy off-spring; the end that <hi>God</hi> hath ordained them for, being only to warm the chillines of the chaste bed, but not to bring the <hi>Boar</hi> and the <hi>Goat</hi> into the Chamber, it being an ill peice of <hi>Archite<g ref="char:EOLhyphen"/>cture</hi> to build the <hi>Sty</hi> above stairs; a peccancy to modish, nought but <hi>Grace</hi> or <hi>old Age</hi> being able to stem the <hi>tide</hi> of youthful <hi>Torrents.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Epsom, Dullage, Tunbridge, Ruffum, <hi>&amp;c.</hi>
+               </head>
+               <p>I would advise those <hi>Ladies</hi> and <hi>Gentlemen,</hi> who are used to Drink the <hi>Spaws</hi> or purging Waters, whether <hi>Naisbrugh, Tunbridge, Epsom, Dullage,</hi> or <hi>Ruffum:</hi> (which last excels them all, the Wa<g ref="char:EOLhyphen"/>ter though less in quantity yet purgeth more than any of the rest, being far lighter, and doubtless its rise proceeding from some more noble <hi>mineral,</hi> bursting forth from a hard stony and mountainous <hi>Rock.</hi> In <hi>Cartmel</hi> beyond the <hi>Sands</hi> in the remo<g ref="char:EOLhyphen"/>test part of <hi>Lancashire:</hi> to drop some drops of this <hi>Liquor</hi> into their Waters, for it doth not only take
+<pb n="11" facs="tcp:206343:8"/>off the <hi>Crudities</hi> of such Waters, but by <hi>precipita<g ref="char:EOLhyphen"/>tion</hi> quickens its passage through the body, increa<g ref="char:EOLhyphen"/>sing its <hi>virtue</hi> some degrees; preventing <hi>nauseat<g ref="char:EOLhyphen"/>ness</hi> and <hi>Vomiting,</hi> as by diverse Persons each year is largely experimented at the <hi>Spaw</hi> in <hi>Germany,</hi> and likewise by some Persons of worth in this <hi>Kingdom</hi> who have been furnished with it, though at a large <hi>rate</hi> from Dr. <hi>Sylvius.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>A general Rule to be observed in this Medicine in all Diseases.</head>
+               <p>Now the Almighty <hi>God</hi> grant a blessing to what hath been said, I conclude with this admonish<g ref="char:EOLhyphen"/>ment, that great <hi>temperance</hi> be used, especially in all <hi>acute</hi> Diseases, and in all <hi>Chronick</hi> and old distempers, let the Dose be daily increased for 3 days and then descend gradually for 3 days again to their first Dose, this caution being observed, that about an hour after dinner let their Dose be doubled, and a gentle convenient <hi>Purgation</hi> each week administred to keep the Body open; the <hi>Pa<g ref="char:EOLhyphen"/>tient</hi> may move any where, keeping his Body no otherways than accustomed, for it works not as other Physick, forcing nature many times to an extream, but by gradual and gentle accessions, operating in our Body, as the <hi>Sun</hi> on <hi>Fire,</hi> extin<g ref="char:EOLhyphen"/>guishing and extirpating without noise, all those miseries, which a <hi>debauch</hi> or <hi>corrupt</hi> habite hath imposed upon poor Nature. The <hi>Dose</hi> is from 5 to 25 drops or more, according to the contumacy of the Disease and constitution of the <hi>Sick,</hi> which must be continued and taken 3 or 4 times dayly in all distempers, and in <hi>Acute</hi> Diseases oftner.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:206343:9"/>
+               <p>To be sold by Mr. <hi>Humphrey Grinsell</hi> Grocer, in <hi>Kings-street,</hi> the Post-House, a corner House very near St. <hi>Margarets</hi> Church, <hi>Westminster.</hi>
+               </p>
+               <p>Mr. <hi>Thomas Eldred</hi> Milliner, at the <hi>Golden Ball</hi> in <hi>Chancery-Lane,</hi> near <hi>Serjeants-Inn.</hi>
+               </p>
+               <p>Mr. <hi>Samuel Gellibrand</hi> at the <hi>Golden Ball</hi> in <hi>Paul</hi>'s Church-yard, Bookseller.</p>
+               <p>Mr. <hi>Robert Boulter,</hi> at the <hi>Turks Head</hi> in <hi>Corn<g ref="char:EOLhyphen"/>hil,</hi> over against the <hi>Royal-Exchange,</hi> Book<g ref="char:EOLhyphen"/>seller.</p>
+               <p>At these four places, and no other in the world is this Excellent Medicine to be had. Sold in 2 Ounce, and 1 Ounce Bottles, at 10 <hi>s.</hi> the greater, and 5 the less; Sealed with a Coat of Arms, the wounded Heart Crown'd.</p>
+               <pb facs="tcp:206343:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
